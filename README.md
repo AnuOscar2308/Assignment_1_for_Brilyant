@@ -19,13 +19,14 @@ Project Setup:
     - Werkzeug
 - Steps to setup:
     - Clone the repository
-    - Set up virtual environment
+    - Set up a virtual environment
     - Install all required libraries
     - Create and configure the database
     - Run the application: python app.py
     - Access the application
 
 Directory Structure:
+
 /project_directory
 
     ├── app.py   
