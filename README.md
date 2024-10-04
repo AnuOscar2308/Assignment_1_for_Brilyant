@@ -27,13 +27,22 @@ Project Setup:
 
 Directory Structure:
 /project_directory
-    ├── app.py                  
-    ├── templates/              
+
+    ├── app.py   
+    
+    ├── templates/  
+    
     │   ├── home.html
+    
     │   ├── login.html
+    
     │   ├── register.html
+    
     │   ├── form.html
+    
     │   └── display.html
+    
     └── instance
+    
         └── final_users.db
            
